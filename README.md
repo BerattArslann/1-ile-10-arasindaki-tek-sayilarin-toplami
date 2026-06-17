@@ -1,0 +1,1 @@
+# 1-ile-10-arasindaki-tek-sayilarin-toplami
